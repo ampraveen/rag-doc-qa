@@ -35,3 +35,6 @@ Conclusion
 This project successfully demonstrates a complete RAG workflow for document-based question
 answering. It showcases practical integration of embeddings, vector databases, and large language
 models in a real-world application.
+<img width="858" height="858" alt="image" src="https://github.com/user-attachments/assets/0af01ba6-519d-4466-bb20-12529740b1ba" />
+
+
