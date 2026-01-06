@@ -1,0 +1,4 @@
+Sample Text File
+----------------
+This is a simple TXT file.
+Useful for testing text ingestion and embeddings.
